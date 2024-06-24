@@ -66,8 +66,4 @@ Contributions are welcome! Please submit issues and pull requests on the [GitHub
 
 ## License
 
-This project is licensed under the AGPL3.
-
----
-
-Feel free to customize this README further to fit the specifics of your project, such as adding more detailed instructions or links to additional resources.
+This project is licensed under AGPL3.
