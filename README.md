@@ -24,7 +24,7 @@ The biZZare is a decentralized application (Dapp) inspired by the early 2000s in
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/thebizzare.git
+   git clone https://github.com/thedredhorseman/thebizzare.git
    cd thebizzare
    ```
 
