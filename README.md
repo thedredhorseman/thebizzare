@@ -62,11 +62,11 @@ The biZZare is a decentralized application (Dapp) inspired by the early 2000s in
 
 ## Contributing
 
-Contributions are welcome! Please submit issues and pull requests on the [GitHub repository](https://github.com/yourusername/thebizzare).
+Contributions are welcome! Please submit issues and pull requests on the [GitHub repository](https://github.com/thedredhorseman/thebizzare).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL3.
 
 ---
 
