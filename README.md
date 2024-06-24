@@ -2,7 +2,7 @@
 
 # The biZZare
 
-The biZZare is a decentralized application (Dapp) inspired by the early 2000s internet, built with Rust and leveraging the libp2p framework for peer-to-peer communication. This project aims to recreate the nostalgic experience of the early internet with modern, secure technology.
+The biZZare is a decentralized network inspired by the early 2000s internet, built with Rust and leveraging the libp2p framework for peer-to-peer communication. This project aims to recreate the nostalgic experience of the early internet with modern, secure technology.
 
 ## Current Features
 
